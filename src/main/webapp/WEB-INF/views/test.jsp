@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h3>성공</h3>
+<h3>성공했나</h3>
 </body>
 </html>
